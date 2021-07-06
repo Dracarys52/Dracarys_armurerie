@@ -133,5 +133,5 @@ Citizen.CreateThread(function()
       end
   end  
 end)
-
+---- DISCORD POUR QUESTION OU AUTRE : https://discord.gg/HU2qZaAXUU
 ---- Script armurerie by Dracarys + la possibilité de tester l'arme avant de l'acheter et évidemment l'arme n'est plus dans l'inventaire du joueur après le test de l'arme
